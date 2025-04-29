@@ -1,0 +1,1 @@
+No início de tudo, tudo que existia era Deus. Então, Deus se dividiu
