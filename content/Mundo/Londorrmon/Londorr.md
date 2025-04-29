@@ -1,7 +1,3 @@
----
-share_link: https://share.note.sx/oldjd2ct
-share_updated: 2025-04-29T02:09:53-03:00
----
 [[Londorrmon|Voltar para Londorrmon]]
 
 Londorr é a cidade capital do reino humano de [[Londorrmon]]. Pouco se sabe sobre Londorr. Pelo menos uma parte da guarda real de Londorr usam espadas de cobre.

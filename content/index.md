@@ -5,8 +5,8 @@ Essas são as minhas notas que eu criei, tanto pra me ajudar a lembrar os evento
 
 Toda vez que você acessar esse link, ele estará atualizado com as versões mais recentes das minhas notas. (a não ser que eu tenha esquecido de atualizar)
 
-- [[Notas sobre a Lore]]
-- [[Notas sobre as Sessões]]
-- [[Notas sobre o Mundo]]
-- [[Notas sobre o Plot]]
-- [[Notas sobre Personagens]]
+- [[Lore]]
+- [[Sessões]]
+- [[Mundo]]
+- [[Plot]]
+- [[Personagens]]

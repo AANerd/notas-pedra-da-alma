@@ -1,1 +1,0 @@
-[[Notas do Nerd|Voltar para Notas do Nerd]]

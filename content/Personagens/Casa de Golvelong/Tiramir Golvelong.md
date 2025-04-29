@@ -1,7 +1,4 @@
----
-share_link: https://share.note.sx/m4ms6z1g
-share_updated: 2025-04-29T05:06:32-03:00
----
+[[Personagens|Voltar para Notas sobre Personagens]]
 
 Tiramir Golvelong é um nobre humano e patriarca da casa de Golvelong. Ele foi um cavaleiro quando jovem, e apesar de ainda saber a arte da espada, seu corpo já é velho e lento, o que o forçou a se aposentar. Hoje, ele foca em cuidar de sua família e dar a eles uma boa vida.
 

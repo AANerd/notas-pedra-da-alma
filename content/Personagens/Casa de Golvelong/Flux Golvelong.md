@@ -1,8 +1,4 @@
----
-share_link: https://share.note.sx/idz2p764
-share_updated: 2025-04-29T05:06:39-03:00
----
-[[Notas do Nerd|Voltar para Notas do Nerd]]
+[[Personagens|Voltar para Notas sobre Personagens]]
 
 [Ficha de Personagem de Flux Golvelong](https://docs.google.com/spreadsheets/d/1pl3Y38M1dIUcTiRUmFFV9qyqvt548zUclw7kWES5X0Q/edit?usp=sharing)
 

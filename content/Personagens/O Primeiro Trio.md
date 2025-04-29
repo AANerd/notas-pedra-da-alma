@@ -1,7 +1,4 @@
----
-share_link: https://share.note.sx/svywthko
-share_updated: 2025-04-29T05:06:15-03:00
----
+[[Personagens|Voltar para Notas sobre Personagens]]
 
-O chamado Primeiro Trio consiste de três aventureiros que se encontraram na cidade de [[Rondorr]]. Esses aventureiros sendo [[Flux Golvelong]], [[Morgan]], e [[Posled]].
+O grupo chamado de O Primeiro Trio consiste dos três aventureiros [[Flux Golvelong]], [[Morgan]], e [[Posled]]. O Primeiro Trio se conheceu na cidade de [[Rondorr]], onde encontraram o [[Sábio de Rondorr]], que os deu a tarefa de levar um saco de pedras até a cidade vizinha de [[Fondorr]].
 
