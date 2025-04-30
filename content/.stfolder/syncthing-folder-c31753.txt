@@ -1,0 +1,5 @@
+# This directory is a Syncthing folder marker.
+# Do not delete.
+
+folderID: notas-pedra-da-alma
+created: 2025-04-30T06:41:52-03:00
