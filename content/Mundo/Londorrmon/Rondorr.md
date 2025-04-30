@@ -10,3 +10,6 @@ Rondorr é uma cidade construída a partir de um centro, este centro é uma pra�
 
 ### Figuras Notáveis
 - [[Sábio de Rondorr]] - O homem que deu ao grupo sua primeira tarefa.
+
+### Locais Notáveis
+- [[Guilda de Aventureiros de Rondorr]]
