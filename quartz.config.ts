@@ -9,7 +9,7 @@ import * as Plugin from "./quartz/plugins"
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "Notas do Nerd",
-    pageTitleSuffix: " - Pedra da Alma",
+    pageTitleSuffix: " - A Pedra da Alma",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
