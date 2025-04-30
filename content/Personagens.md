@@ -1,4 +1,8 @@
-[[Notas do Nerd|Voltar para Notas do Nerd]]
+---
+aliases:
+  - Voltar para Personagens
+---
+[[index|Voltar para Notas do RPG]]
 
 ### Casa de Golvelong
 - [[Flux Golvelong]] - Filho do meio e aventureiro novato

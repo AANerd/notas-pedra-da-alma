@@ -1,4 +1,8 @@
-[[Notas do Nerd|Voltar para Notas do Nerd]]
+---
+aliases:
+  - Voltar para Sessões
+---
+[[index|Voltar para Notas do RPG]]
 
 Aqui está uma lista de sessões e seus resumos.
 ### Sessões
