@@ -6,3 +6,6 @@ Rondorr primeiro apareceu em [[Sessão 1 - O Início]]. Na sessão em questão, 
 
 ### Figuras Notáveis
 - [[Sábio de Rondorr]] - O homem que deu ao grupo sua primeira tarefa.
+
+### Locais Notáveis
+- [[Guilda de Aventureiros de Rondorr]]
