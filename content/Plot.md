@@ -1,8 +1,10 @@
 ---
 aliases:
   - Voltar para Plot
+tags:
+  - plot
+  - pagina-central
 ---
-#plot
 
 ### **Viajantes** - Arco 1
 

@@ -1,9 +1,11 @@
 ---
 aliases:
   - Voltar para Sessões
+tags:
+  - sessão
+  - pagina-central
 ---
-#sessão
 
 Aqui está uma lista de sessões e seus resumos.
 ### Sessões
-- [[Sessão 1 - O Início]] - [[O Primeiro Trio]] se reuniu em [[Rondorr]] e partiu em direção a [[Fondorr]] por uma tarefa dada pelo [[Sábio de Rondorr]].
+- [[Sessão 1 - O Início]] - [[O Trio]] se reuniu em [[Rondorr]] e partiu em direção a [[Fondorr]] por uma tarefa dada pelo [[Sábio de Rondorr]].

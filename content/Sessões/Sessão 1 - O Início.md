@@ -1,4 +1,10 @@
-#sessão #morgan #posled #flux #rondorr #fondorr
+---
+tags:
+  - sessão
+  - o-trio
+  - rondorr
+  - fondorr
+---
 
 ### Introduções
 
@@ -13,7 +19,7 @@ Enquanto saía da taverna, indo em direção à guilda, [[Flux Golvelong|Flux]] 
 
 ***Inserir depois o por que de Posled decidir ir até a guilda.***
 
-Na guilda, os três aprenderam sobre um [[um grupo de magos]] que estavam em busca da Pedra da Alma por seu poder descomunal. O [[Sábio de Rondorr]] também declarou que a guilda não tem muita informação a oferecer, especialmente a civis. O melhor curso de ação seria a entrada de [[O Primeiro Trio|nossos heróis]] na guilda.
+Na guilda, os três aprenderam sobre um [[um grupo de magos]] que estavam em busca da Pedra da Alma por seu poder descomunal. O [[Sábio de Rondorr]] também declarou que a guilda não tem muita informação a oferecer, especialmente a civis. O melhor curso de ação seria a entrada de [[O Trio|nossos heróis]] na guilda.
 
 Após se ingressarem, o Sábio deu a Flux um saco de pedras e disse ao grupo que sua primeira tarefa seria trazer o saco com segurança até [[Fondorr]]. Ele também disse para não abrirem o saco em quaisquer circunstâncias.
 ### O Javali Selvagem
@@ -22,10 +28,10 @@ Antes de sair, [[Posled]] aceitou uma missão de matar um Javali selvagem. No me
 
 Ao encontraram o Javali, o grupo viu que ele tinha o que parecia ser uma espada de cobre enfincada em sua cabeça. Utilizando sua armadilha de ursos, Posled conseguiu prender o Javali e então retirar a espada de sua cabeça sem muitos problemas, matando o Javali.
 
-Com uma análise cuidadosa da espada, [[Flux Golvelong|Flux]] determinou que o cobre transmutou o cérebro do Javali em algo diferente, Posled confirmando que no lugar havia um cérebro de cabra. A análise também revelou o brasão da Guarda Real de [[Londorr]], o que confundiu tanto [[O Primeiro Trio|o trio]] quanto o fazendeiro.
+Com uma análise cuidadosa da espada, [[Flux Golvelong|Flux]] determinou que o cobre transmutou o cérebro do Javali em algo diferente, Posled confirmando que no lugar havia um cérebro de cabra. A análise também revelou o brasão da Guarda Real de [[Londorr]], o que confundiu tanto [[O Trio|o trio]] quanto o fazendeiro.
 ### O Acampamento de Fondorr
 
-Continuando sua jornada até [[Fondorr]], [[O Primeiro Trio|o grupo]] se deparou com um acampamento da guarda de Fondorr no meio do caminho. Desconfiado, [[Posled]] seguiu em frente sem interagir com o acampamento, mas o resto do grupo decidiu ficar para dar uma olhada no que os mercadores do local haviam para oferecer.
+Continuando sua jornada até [[Fondorr]], [[O Trio|o grupo]] se deparou com um acampamento da guarda de Fondorr no meio do caminho. Desconfiado, [[Posled]] seguiu em frente sem interagir com o acampamento, mas o resto do grupo decidiu ficar para dar uma olhada no que os mercadores do local haviam para oferecer.
 
 Não tendo se interessado em nada, [[Flux Golvelong|Flux]] e [[Morgan]] se sentaram em um banco para descansar por alguns minutos. Nesse momento, Flux sentiu uma atração estranha por algo em sua mochila. Quando a abriu para verificar e retirou o objeto em questão, viu que era o saco de pedras que ele devia levar até Fondorr. Percebendo a influência que o objeto tem em sua mente, Flux o colocou de volta na mochila e fechou ela.
 
