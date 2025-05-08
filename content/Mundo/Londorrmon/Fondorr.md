@@ -1,4 +1,4 @@
-[[Londorrmon|Voltar para Londorrmon]]
+#mundo #cidade #londorrmon 
 
 Fondorr é uma cidade no reino humano de [[Londorrmon]]. Não se sabe muito sobre Fondorr.
 

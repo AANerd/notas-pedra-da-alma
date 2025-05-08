@@ -2,7 +2,7 @@
 aliases:
   - Voltar para Personagens
 ---
-[[index|Voltar para Notas do RPG]]
+#personagem 
 
 ### Casa de Golvelong
 - [[Flux Golvelong]] - Filho do meio e aventureiro novato

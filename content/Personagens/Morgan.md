@@ -1,4 +1,4 @@
-[[Personagens|Voltar para Notas sobre Personagens]]
+#personagem #jogador #morgan
 
 Morgan é uma barda drow que faz parte do [[O Primeiro Trio|Primeiro Trio]]. 
 

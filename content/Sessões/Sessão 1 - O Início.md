@@ -1,3 +1,5 @@
+#sessão #morgan #posled #flux #rondorr #fondorr
+
 ### Introduções
 
 [[Morgan]] discutia com Belihim, um homem velho, em busca de ter um pouco mais de informação. O homem direcionou Morgan até a [[Guilda de Aventureiros de Rondorr|guilda de aventureiros]], declarando que eles seriam mais úteis nessa situação.

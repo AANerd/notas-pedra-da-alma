@@ -1,4 +1,4 @@
-[[Personagens|Voltar para Notas sobre Personagens]]
+#personagem #jogador #posled 
 
 Posled é um monge draconato que faz parte do [[O Primeiro Trio|Primeiro Trio]].
 

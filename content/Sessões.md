@@ -2,7 +2,7 @@
 aliases:
   - Voltar para Sessões
 ---
-[[index|Voltar para Notas do RPG]]
+#sessão
 
 Aqui está uma lista de sessões e seus resumos.
 ### Sessões

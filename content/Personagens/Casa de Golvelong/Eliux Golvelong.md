@@ -1,4 +1,4 @@
-[[Personagens|Voltar para Notas sobre Personagens]]
+#personagem #golvelong 
 
 Eliux Golvelong é uma meio-elfa da casa de Golvelong. Ela presta pouca atenção em qualquer coisa além de seus estudos, almejando se tornar uma grande maga, assim como acredita que [[Feilyux Golvelong|sua mãe]] era.
 

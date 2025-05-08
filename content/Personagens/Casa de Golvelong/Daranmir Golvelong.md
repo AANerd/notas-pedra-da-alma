@@ -1,4 +1,4 @@
-[[Personagens|Voltar para Notas sobre Personagens]]
+#personagem #golvelong 
 
 Daranmir Golvelong é o primogênito humano da casa de Golvelong. Daranmir segue nos passos de [[Tiramir Golvelong|seu pai]], sendo um cavaleiro que protege sua cidade natal.
 

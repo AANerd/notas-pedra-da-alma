@@ -2,7 +2,7 @@
 aliases:
   - Voltar para Londorrmon
 ---
-[[Mundo|Voltar para Notas sobre o Mundo]]
+#mundo #reino
 
 Londorrmon é um reino humano e atualmente o único reino visitado por nossos heróis.
 

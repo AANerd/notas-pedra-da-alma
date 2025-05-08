@@ -2,7 +2,7 @@
 aliases:
   - Voltar para Plot
 ---
-[[index|Voltar para Notas do RPG]]
+#plot
 
 ### **Viajantes** - Arco 1
 
