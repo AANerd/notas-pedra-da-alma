@@ -1,8 +1,12 @@
 ---
 aliases:
   - Flux
+tags:
+  - personagem
+  - jogador
+  - flux
+  - golvelong
 ---
-[[Personagens|Voltar para Notas sobre Personagens]]
 
 [Ficha de Personagem de Flux Golvelong](https://docs.google.com/spreadsheets/d/1pl3Y38M1dIUcTiRUmFFV9qyqvt548zUclw7kWES5X0Q/edit?usp=sharing)
 

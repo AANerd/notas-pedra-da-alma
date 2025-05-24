@@ -10,7 +10,7 @@ No reino de [[Londorrmon]] existem 8 Conglomerados, os conglomerados são regiõ
 - 
 
 ## > Conglomerado Esmeralda:
-- O Conglomerado Esmeralda é conhecido como o pináculo da jornada, foi nele em que o mais heroico dos [[Portadores de Pedras]] surgiu. A Pedra Esverdeada foi selada na cidade de [[Rondorr]], sendo esta principal do Conglomerado. As cidades do Conglomerado Esmeralda são: [[Rondorr]], [[Fondorr]], [[Mondor]].
+- O Conglomerado Esmeralda é conhecido como o pináculo da jornada, foi nele em que o mais heroico dos [[Portadores de Pedras]] surgiu. A Pedra Esverdeada foi selada na cidade de [[Rondorr]], sendo esta principal do Conglomerado. As cidades do Conglomerado Esmeralda são: [[Rondorr]], [[Mundos/Terras/Reinos de Terras/Londorrmon/Conglomerados/Esmeralda/Cidades/Fondorr/Fondorr]], [[Mondor]].
 
 ## > Conglomerado Safira:
 - 

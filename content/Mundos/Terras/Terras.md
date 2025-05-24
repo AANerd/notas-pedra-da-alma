@@ -1,4 +1,7 @@
-[[Mundo|Voltar para Notas sobre o Mundo]]
+---
+tags:
+  - mundo
+---
 
 Terras é o mundo em que se passa a campanha de *A Pedra da Alma*.
 

@@ -1,6 +1,11 @@
-[[Personagens|Voltar para Notas sobre Personagens]]
+---
+tags:
+  - personagem
+  - jogador
+  - posled
+---
 
-Posled é um monge draconato que faz parte do [[O Primeiro Trio|Primeiro Trio]].
+Posled é um monge draconato que faz parte do [[O Trio|Primeiro Trio]].
 
 ### Relações
 - [[Flux Golvelong]] - Colega Aventureiro

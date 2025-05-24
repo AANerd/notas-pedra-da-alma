@@ -1,4 +1,10 @@
-[[Notas do Nerd|Voltar para Notas do Nerd]]
+---
+aliases:
+  - Voltar para Personagens
+tags:
+  - personagem
+  - pagina-central
+---
 
 ### Casa de Golvelong
 - [[Flux Golvelong]] - Filho do meio e aventureiro novato
@@ -7,7 +13,7 @@
 - [[Daranmir Golvelong]] - Primogênito e cavaleiro protetor
 - [[Eliux Golvelong]] - Filha mais nova e estudante de magia
 
-### [[O Primeiro Trio]]
+### [[O Trio]]
 - [[Flux Golvelong]] - Feiticeiro changeling
 - [[Morgan]] - Barda drow
 - [[Posled]] - Monge draconato

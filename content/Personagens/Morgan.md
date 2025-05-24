@@ -1,6 +1,11 @@
-[[Personagens|Voltar para Notas sobre Personagens]]
+---
+tags:
+  - personagem
+  - jogador
+  - morgan
+---
 
-Morgan é uma barda drow que faz parte do [[O Primeiro Trio|Primeiro Trio]]. 
+Morgan é uma barda drow que faz parte do [[O Trio|Primeiro Trio]]. 
 
 ### Relações
 - [[Flux Golvelong]] - Colega Aventureiro
