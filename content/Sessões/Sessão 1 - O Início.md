@@ -33,6 +33,6 @@ Com uma análise cuidadosa da espada, [[Flux Golvelong|Flux]] determinou que o c
 
 Continuando sua jornada até [[Fondorr]], [[O Trio|o grupo]] se deparou com um acampamento da guarda de Fondorr no meio do caminho. Desconfiado, [[Posled]] seguiu em frente sem interagir com o acampamento, mas o resto do grupo decidiu ficar para dar uma olhada no que os mercadores do local haviam para oferecer.
 
-Não tendo se interessado em nada, [[Flux Golvelong|Flux]] e [[Morgan]] se sentaram em um banco para descansar por alguns minutos. Nesse momento, Flux sentiu uma atração estranha por algo em sua mochila. Quando a abriu para verificar e retirou o objeto em questão, viu que era o saco de pedras que ele devia levar até Fondorr. Percebendo a influência que o objeto tem em sua mente, Flux o colocou de volta na mochila e fechou ela.
+Não tendo se interessado em nada, [[Flux Golvelong|Flux]] e [[Morgan]] se sentaram em um banco para descansar por alguns minutos. Nesse momento, Flux sentiu uma atração estranha por algo em sua mochila. Quando a abriu para verificar e retirou o objeto em questão, viu que era o saco de pedras que ele devia levar até Fondorr. Percebendo a influência que o objeto tem em sua mente, Morgan avisa Flux que coloca a algibeira de volta na mochila e fechou ela.
 
 Após isso, o grupo continuou sua jornada até [[Fondorr]].
