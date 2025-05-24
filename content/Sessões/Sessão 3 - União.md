@@ -1,0 +1,14 @@
+### Notas Rápidas
+- O Trio chega em Fondorr, e [[Flux Golvelong|Flux]] consegue informação sobre onde seu destino pode estar, levando o grupo até a torre na cidade.
+- [[Ransdall, o Mago Negro]] mostra a [[T'aravorn de Londorrmon]] e [[Đ Artus]] alguns livros sobre a etiqueta do mundo atual para que eles aprendam. T'aravorn hesita mas aceita, enquanto Đ Artus se recusa.
+- T'aravorn hipotetiza que Đ Artus possa ser um objeto possuído por uma alma humanóide. Ransdall acha possível mas improvável.
+- Os dois grupos se juntam na torre, onde [[Morgan]] entrega as pedras a Ransdall após o mesmo explicar sua relação com o [[Sábio de Rondorr]].
+- Quando Ransdall abre a algibeira, um brilho dourado parece sair de dentro, antes que ele fechasse rapidamente.
+- Ransdall então leva o grupo até sua casa, para discutir sobre o assunto mais privadamente.
+- Agora em casa, Ransdall abre as duas algibeiras, uma com um brilho dourado e a outra com um brilho prateado.
+- Ransdall tira uma das pedras do saco dourado, revelando um brilho cegante vindo dela. A pedra é translúcida e dentro tem algo que lembra uma runa.
+- Ransdall diz que os aventureiros teriam que desistir de suas reputações e ser vistos como vilões para poder salvar o mundo.
+- O grupo junta os fragmentos numa única esfera, que contém o poder da Pedra da Alma mas não sua vontade. Para destruí-la, falta apenas juntar as peças da pedra da alma e encontrar "A Esculpitora", o local onde a Pedra da Alma foi forjada.
+- Após decidir ir até a capital de Londorrmon, o grupo decidiu ir de noite.
+- Quando iam começar a viagem, Ransdall é atingido por um pardal mensageiro. A mensagem no pardal incluíam o pergaminho dado ao Sábio por Posled, além de uma mensagem explicando que o pergaminho estava em dracônico incluindo instruções de combate monásticas, com que Ransdall poderia ajudar Posled.
+- Na caravana, o grupo jogou uma partida de Jackblack, um jogo de baralho criado pelo tio da Morgan com o mesmo nome. No final, a própria acabou ganhando 30 PO dos outros Jogadores.

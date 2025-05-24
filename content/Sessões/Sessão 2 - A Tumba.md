@@ -1,0 +1,68 @@
+### Notas Rápidas
+- Muito tempo atrás, um objeto foi usado por um humano e seus companheiros para igualar a humanidade e todas raças ao mesmo nível de poder, derrotando os dragões tiranos e criando uma era de prosperidade.
+- 2 mil anos depois, um descendente desse humano, com ambição demais, tentou usar o mesmo objeto para destruir essa prosperidade, travando guerras com todos que se opunham a ele. Todas outras raças uniram forças para derrotar os humanos. Após muito combate, ele foi parado. O objeto que o empoderou foi escondido e guardado para que isso não ocorra novamente.
+- Agora as raças estão afastadas, por medo de serem traídos.
+- Os contos do objeto foram passados de geração a geração para servir como uma lição.
+- O objeto teve muitos nomes, mas hoje é conhecido como A Pedra da Alma.
+- Um jovem com ambição e desejo de ter seu nome espalhado por todos os 9 reinos humanos.
+- Terminando de ler sobre essa história, é apresentado [[Ziegbal Dunfur]].
+- Ziegbal é um meio-elfo que está caminhando por uma cidade humana conhecida por seus comerciantes, a cidade dos ventos esmeralda, [[Fondorr]].
+- Ziegbal procura uma taverna para saber mais sobre os contos que rodeam essa cidade.
+- A taverna é de madeira e tem 6 mesas, 3 de cada lado. Ao fundo, há um balcão com um taverneiro.
+- Há varias pessoas, em maioria humanos, atendendo a taverna, distraídos felizmente com suas próprias vidas.
+- Ziegbal vai até o balcão e pede um copo de leite. Ziegbal diz que é trazido por aventura, ambição, e leite. O taverneiro declara que não importa a bebida, essa taverna tem do melhor.
+- O taverneiro aconselha Ziegbal a ir até a biblioteca para buscar um mago que pode ter as informações que ele deseja.
+- O mago é descrito tendo um sobretudo preto e um cajado, falando como um velho, sempre mudando de rosto, e devendo algumas bebidas ao taverneiro.
+- Ao perguntar da pedra da alma, o taverneiro ri, declarando que é apenas um mito e que dizem que ela influencia até os mais justos de coração.
+- Escutando essa conversa, é apresentado [[Apolion Ingward]]. Ouvindo que os magos podem oferecer muitos trabalho, Apolion fica de olha em Ziegbal e depois volta a olhar seu caderno com várias páginas rasgadas.
+- Apolion termina sua bebida e deixa no balcão uma gorjeta de 1 GP, agradecendo pelo ambiente acolhedor.
+- Ao contrária de outras cidades de Londorrmon, Fondorr tem ruas de terra batida ao invés de tijolos. Os tetos das casas são azuladas e as paredes feitas de tijolos.
+- Apolion vai até um jovem vendedor de rua, perguntando porque o forte fica no canto ao invés de no centro. O Lojista explica que o primeiro portador da pedra azulada surgiu lá. Por isso ele é usado como um local de adoração e todas casas tem tetos azuis em seu respeito.
+- Apolion dá ao vendedor 1 GP por 3 maçãs, cada uma custando 3 CP.
+- Ziegbal se encontra numa enorme biblioteca cheia de magos e nota um que chama atenção. Ao invés de estar de cara nos livros, ele anda pelo local.
+- Ao perceber que Ziegbal se aproximava, o mago também começa a se aproximar dele e o pergunta sériamente quem ele é.
+- Ziegbal diz que veio cobrar e o mago responde que está liso, puxando uma cadeira e se sentando no meio do corredor.
+- O mago reconhece Ziegbal como um ladino e diz que necessita de alguém como ele.
+- O mago declara que foi encontrado pois quis ser encontrado e se introduz como [[Ransdall, o Mago Negro]].
+- Ele diz que magos negros são conhecidos por histórias onde portam metais, pedras, e cristal escuros. Mas ele explica que a real diferença é que o uso de um certo tipo de magia se torna uma obsessão para um mago negro.
+- Ransdall diz que precisam de mais um aliado e aponta para a porta no exato momento que Apolion entra por ela.
+- Ransdall grita até Apolion para que suba até eles.
+- Apolion se apresenta e Ransdall explica que a casa Ingward é a principal decendente do primeiro portador da pedra azul.
+- Ransdall contrata os dois para explorarem uma marmorra ao leste na floresta esmeralda que foi encontrada recentemente.
+- Apolion nota que será uma experiência, mas ele não se dá bem com lugares fechados.
+- Durante as 2 horas de viagem, Ransdall explica que a masmorra foi descoberta por um deslizamento das montanhas que removeu uma boa camada de terra.
+- Muitos magos vieram estudar o motivo dessa erosão repentina
+- Teoria 1: Um evento geológico normal
+- Ransdall acha a segunda teoria mais interessante e provável: A muito tempo atrás, um mago poderoso usou magia para tampar um vulcão para proteger sua cidade, mas isso só causou o vulcão a explodir, levando sua tampa aos ares. E parece ter acontecido o mesmo com a masmorra, mas com energia mágica no lugar de lava.
+- Ransdall só tem interesse em um dos tesouros na masmorra: a carcaça de um forjado de guerra.
+- No local, as flores tem um tom de verde mais vibrante que o normal. Aos lados da trilha existem várias pilhas de rocha com pontas de esmeralda que refletem a luz do sol.
+- Apolion nasceu em Tondorr, próximo de Londorr. Ransdall explica que Rondorr, uma cidade próxima, guarda a pedra esverdeada e serve como centro do conglomerado esmeralda. Ao redor, qualquer pedra exposta ao sol começa a criar esmeraldas.
+- No caminho, eles encontram um pano purpurina preso em galho perto de raízes.
+- Pegando o pedaço de tecido, Ziegbal percebe que parece ser parte de roupas finas de um nobre.
+- Explorando a masmorra, ela parece ser um templo antigo cheio de pilastras, estátuas, e portas. E a vontade do grupo ressoa quando dentro dessas paredes.
+- Apolion sente uma presença fraca e dormente mais a fundo na masmorra, e vai até ela junto com os outros. Conforme eles se aprofundam na masmorra, maior parece a masmorra, revelando ornamentos antes imperceptíveis.
+- As paredes de mármore agora parecem ter certas figuras que parecem lembrar sarcófagos, revelando o local como sendo uma tumba.
+- Ransdall, usando de sua magia, revela que a tumba tem mais de 2 mil anos. Porém, forjados de guerras não deviam existir a tanto tempo e os relatórios não revelam essa como sendo a idade do forjado de guerra.
+- Se aprofundando na masmorra, as paredes vão de mármore para ouro, e todos corredores funilam a uma única câmara com um caixão de pé em seu centro. Diversas espadas antigas cruzam estão enfincadas no caixão. 3 na lateral, uma no topo, e uma na frente, no peito. O caixão está suspenso por correntes de aço negro completamente rígido. Á frente ao caixão, como se o protegendo, há a figura de um cavaleiro empoeirado e imóvel em uma posição de combate.
+- Ransdall corre até o cavaleiro e o abraça, declarando como seu forjado de guerra. Clarificando que só agora pertence a ele.
+- Ransdall explica que o forjado deveria estar em outra sala.
+- Ransdall estende a mão até o caixão e parece ficar encantado pelo objeto. Antes que pudesse tocar no caixão, uma luz verde-azulada emana da espada no centro do caixão e uma parede cai sob a entrada, brilhando na mesma cor. De trás das pilastras, surgem esqueletos com mantos remeniscente de magos cobertos da mesma energia, segurando espadas curtas.
+- Após derrotarem os esqueletos, a porta se abre, revelando o esqueleto gigantesco de um ogro.
+- A cena é cortada e a voz de uma mulher é escutada repetindo uma frase como se um ritual. Ela é interrompida por um homem em pânico declarando que alguém está chegando e para que ela acelere o ritual, que ela responde falando para que ele se acalme. Ao repetir novamente a frase, o som de carne rasgada e o grito de um homem é escutado.
+- A mulher fala com o homem preso no caixão e diz que ele irá acordar e despertar amanhã e para deixar que a dor destrua tudo. Uma energia poderosa cobria o local emanando do caixão.
+- A mulher declara que todos na tumba se tornarão mortos, enquanto uma luz verde-azulada cobria o local.
+- Voltando para o presente, quando Ziegbal e Apolion estavam prestes a ser acertados pelo ogro, ele é bloqueado por uma espada.
+- [[T'aravorn de Londorrmon]] saiu de seu caixão e reflexivamente defendeu os dois.
+- Após derrotarem o ogro esqueleto, ele se funde com o resto dos outros esqueletos, formando o que parece ser a parte de cima de um dragão esquelético.
+- Quando essa criatura estava prestes a atacar o grupo, o forjado de guerra acorda e destrói a criatura pela cabeça.
+- O forjado de guerra é [[Đ Artus]].
+- Ransdall diz a T'aravorn que ele está morto a 500 anos, quando na verdade está morto por ao redor de 2.000 anos.
+- Olhando ao redor, Ziegbal encontra um livro antigo sem nada na capa nem contra-capa escrito na lingua das fadas (aka Silvestre)
+- Na saída, o grupo percebeu que eles entraram pelo que parecia ser uma entrada provisória.
+- Ransdall nota que a tumba veio antes e a parte de oráculo veio depois.
+- Ransdall diz que pediu outra pessoa a vir. Alguém com mais conhecimento sobre silvestre e carregando um conjunto de objetos, e que ele também tem um conjunto de objetos.
+- Ransdall recompensa cada um com 10 GP.
+- Ransdall diz que uma coisa sombria está vindo, que nenhum deles poderia imaginar, e que eles devem se juntar a seu amigo.
+- Esse coisa sombria deseja algo que todos desejam.
+- Essa aventura foi um teste que eles passaram. O grupo são pequenos homens com grandes objetivos que devem conhecer a si mesmo enquanto buscam um objeto inimaginável.
+- Ele diz que a pedra da alma existe e pode estar mais perto do que nunca e ele precisa que o grupo impeça a catástrofe maior.

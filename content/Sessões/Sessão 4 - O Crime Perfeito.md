@@ -1,0 +1,11 @@
+### Notas Rápidas
+- Após continuar em frente no dia seguinte, o grupo passa por uma árvore estranha e vira à direita para chegar a um vilarejo próprio, seguindo as instruções de Ransdall.
+- Ransdall explica um pouco sobre a pedra esverdeada e a especialidade de seu portador em Transmutação, e a maneira que isso alterou o conglomerado esmeralda.
+- A vila tem casas em formatos de árvores: arquitetura élfica, mas é amplamente habitada por humanos. Ransdall explica que isso é um resquício da era em que as raças viviam em harmonia.
+- Uma moça então se aproxima, chamando por Ransdall, se apresentando como Mirindall que Ransdall explica que será a futura chefe da vila.
+- Enquanto Mirindall conversava com Morgan, Ziegbal se aproveita e rouba 15 PO dela.
+- Após esse encontro, o grupo vai até um vendedor da vila. Nele, Ziegbal usa as 15 PO para comprar um kit de poções estranhas.
+- Na mesma loja, Morgan encontra um frasco contendo 3 esferas. Ao perguntar o preço, o vendedor diz nervosamente que pagará 15 PO a Morgan para que ela o devolva, o que Morgan aceita após ver que as esferas do frasco criaram olhos e bocas afiadas.
+- Além disso, Morgan também compra um bumerangue e um kit de poções estranhas. Apollion compra flechas e uma única poção estranha.
+- Após sair da loja, Apollion bebe a poção que comprou, o que acabou deixando Ziegbal, Flux e Morgan que estavam próximos dele invisíveis. Ziegbal dá um soco em Apollion, terminando a invisibilidade em si mesmo e Flux tenta roubar uma moeda de Apollion com sucesso antes de devolvê-la, demonstrando a utilidade do efeito mas dizendo que prefere não usar aquilo que não entende.
+- Enquanto os outros estavam na loja, Ransdall se separa para conversar com Dirindall, um velho amigo. Dirindall explica que a guarda de Londorr está vagando pelo conglomerado Esmeralda, o que significa que monstros estão à solta. Não só isso, como eles parecem estar ficando mais inteligentes. Ransdall aceita ajudá-lo a lidar com um monstro, em troca de 10 PO para cada um de seus companheiros.
